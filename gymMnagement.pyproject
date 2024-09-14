@@ -1,0 +1,14 @@
+{
+    "files": [
+        "mainpage.py",
+        "form.ui",
+        "icons.qrc",
+        "DB.py",
+        "loginValidationModule.py",
+        "membersModule.py",
+        "ValidationModule.py",
+        "coachmodule.py",
+        "equipementModule.py",
+        "updateAdmin.py"
+    ]
+}
